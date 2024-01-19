@@ -3,7 +3,6 @@ package com.thiago.integration.adapter.output;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.thiago.integration.domain.entity.Dados;
-import com.thiago.integration.domain.entity.RbrfCpf;
 import org.junit.jupiter.api.*;
 import org.mockserver.integration.ClientAndServer;
 import org.mockserver.model.MediaType;

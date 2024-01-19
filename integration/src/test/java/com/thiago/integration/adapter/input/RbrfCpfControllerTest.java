@@ -1,16 +1,10 @@
 package com.thiago.integration.adapter.input;
 
-import com.thiago.integration.adapter.dto.DadosDto;
-import com.thiago.integration.adapter.dto.RbrfCpfDto;
 import com.thiago.integration.domain.entity.Dados;
-import com.thiago.integration.domain.entity.RbrfCpf;
-import com.thiago.integration.port.input.IRbrfCpfUseCaseInput;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.HttpStatus;

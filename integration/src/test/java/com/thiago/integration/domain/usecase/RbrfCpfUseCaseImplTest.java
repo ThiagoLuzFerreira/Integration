@@ -1,8 +1,6 @@
 package com.thiago.integration.domain.usecase;
 
 import com.thiago.integration.domain.entity.Dados;
-import com.thiago.integration.domain.entity.RbrfCpf;
-import com.thiago.integration.port.output.IRbrfCpfUseCaseOutput;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
